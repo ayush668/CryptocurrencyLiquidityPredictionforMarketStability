@@ -75,6 +75,7 @@ http://localhost:8501
    - Hyperparameter optimization using GridSearchCV
    - Custom scoring function weighted toward minority classes
    - Ensemble modeling combining multiple classifiers
+ 
 4.The output is shown in this way {0:'LOW',1:'Medium',2:'High'}
 - This Project can be used in real-life by Users.
 
