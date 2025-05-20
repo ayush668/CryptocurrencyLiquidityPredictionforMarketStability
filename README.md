@@ -35,7 +35,8 @@ http://localhost:8501
 
 ## Deployment Architecture -
 
-![deployment](https://user-images.githubusercontent.com/104005791/199660875-c8e63457-432a-44cb-8a95-800870f3da15.png)
+![wdtm1p8j](https://github.com/user-attachments/assets/4b0a6e5e-016c-49f7-953e-b2d5fb393e5c)
+
 
 
 
